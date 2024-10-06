@@ -12,3 +12,6 @@ Para comenzar con este proyecto, primero necesitas clonar el repositorio y luego
 git clone (https://github.com/TuteSeta/Tp-Js)
 cd <NOMBRE_DEL_REPOSITORIO>
 npm install
+
+luego 
+npm run dev
